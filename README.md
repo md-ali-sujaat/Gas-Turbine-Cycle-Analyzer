@@ -2,6 +2,10 @@
 
 A MATLAB App Designer application for preliminary thermodynamic and performance analysis of a single-spool turbojet engine.
 
+## Application Preview
+
+![Gas Turbine Cycle Analyzer](images/GasTurbineCycleAnalyzer_Main.PNG)
+
 ## Features
 
 - Steady, one-dimensional turbojet-cycle analysis
